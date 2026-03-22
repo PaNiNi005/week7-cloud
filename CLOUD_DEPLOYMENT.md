@@ -1,5 +1,4 @@
 # Cloud Deployment Analysis
-## ENGCE301 - Week 7 Lab
 
 ---
 
