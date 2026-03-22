@@ -8,8 +8,8 @@
 
 | Service | URL |
 |---------|-----|
-| Frontend | https://_________________________.railway.app |
-| Backend API | https://_________________________.railway.app |
+| Frontend | https://perpetual-light-production-b8fb.up.railway.app |
+| Backend API | https://week6-ntier-docker-production-2a78.up.railway.app |
 | Database | (Internal - ไม่มี public URL) |
 
 ### 1.2 Screenshot หลักฐาน (5 รูป)
